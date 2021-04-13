@@ -63,5 +63,5 @@ The following tools were used in the construction of the project:
 
 
 # Backup Zip
-- [Link do Artigo zipado] (Google Drive)
+- [Link do Projeto zipado] (Google Drive)
 - ![image](https://drive.google.com/file/d/12zg886MkAZz7aNEEd9CXfiIya50VWH6z/view?usp=sharing)
