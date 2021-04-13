@@ -64,4 +64,4 @@ The following tools were used in the construction of the project:
 
 # Backup Zip
 - [Linkd do Artigo zipado]
-- ![image](https://user-images.githubusercontent.com/60955355/114620918-75be0100-9c82-11eb-97d5-59cb52e85972.png)
+- ![image](https://drive.google.com/file/d/12zg886MkAZz7aNEEd9CXfiIya50VWH6z/view?usp=sharing)
